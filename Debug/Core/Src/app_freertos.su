@@ -1,0 +1,4 @@
+../Core/Src/app_freertos.c:71:6:vApplicationGetIdleTaskMemory	24	static
+../Core/Src/app_freertos.c:85:6:MX_FREERTOS_Init	72	static
+../Core/Src/app_freertos.c:128:6:StartLoraTask	16	static
+../Core/Src/app_freertos.c:155:6:StartGPIOTask	16	static
